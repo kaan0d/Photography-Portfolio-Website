@@ -192,12 +192,6 @@ pnpm start
 - Category filtering
 - Smooth transitions and animations
 
-### Contact Form
-- Form validation
-- Email integration (optional)
-- Success/error messages
-- Spam protection
-
 ### SEO Optimization
 - Meta tags for social sharing
 - Open Graph tags
